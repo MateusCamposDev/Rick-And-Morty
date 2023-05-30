@@ -13,7 +13,7 @@ export function CardCharacter({image, name, genre, specie}) {
         <h3>{name}</h3>
         <ul>
           <li>Gênero: {genre}</li>
-          <li>Espécie{specie}</li>
+          <li>Espécie: {specie}</li>
         </ul>
       </div>
     </ContainerCard>
